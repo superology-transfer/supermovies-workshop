@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="movie_name_text_size">12sp</dimen>
+    <dimen name="movie_rating_text_size">28sp</dimen>
+    <dimen name="movie_button_text_size">12sp</dimen>
+
+    <dimen name="movie_item_height">170dp</dimen>
+    <dimen name="movie_rating_icon_size">8dp</dimen>
+
+    <dimen name="movie_default_padding">6dp</dimen>
+    <dimen name="movie_rating_bottom_spacing">8dp</dimen>
+    <dimen name="movie_rating_icon_horizontal_spacing">2dp</dimen>
+    <dimen name="movie_rating_icons_bottom_spacing">25dp</dimen>
+    <dimen name="movie_button_vertical_spacing">12dp</dimen>
+    <dimen name="movie_button_horizontal_spacing">24dp</dimen>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SuperMovies</string>
+    <string name="button_close_label">Close</string>
+</resources>
